@@ -18,14 +18,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		123F1BCC1F7E994C008F260C /* NSLoggerSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSLoggerSwift.h; path = Client/iOS/NSLoggerSwift.h; sourceTree = SOURCE_ROOT; };
+		123F1BCC1F7E994C008F260C /* NSLoggerSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSLoggerSwift.h; path = Client/iOS/Sources/NSLoggerSwift.h; sourceTree = SOURCE_ROOT; };
 		3D0EE4BC1EC1241100D0FA63 /* NSLoggerSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NSLoggerSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3D0EE4DC1EC1255A00D0FA63 /* NSLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NSLogger.swift; path = Client/iOS/NSLogger.swift; sourceTree = SOURCE_ROOT; };
+		3D0EE4DC1EC1255A00D0FA63 /* NSLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NSLogger.swift; path = Client/iOS/Sources/NSLogger.swift; sourceTree = SOURCE_ROOT; };
 		DAAD0F961C4BE27B0042313D /* NSLogger.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = NSLogger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAAD0F9B1C4BE27B0042313D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DAAD0FA91C4BE55F0042313D /* LoggerClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoggerClient.h; path = Client/iOS/LoggerClient.h; sourceTree = SOURCE_ROOT; };
-		DAAD0FAA1C4BE55F0042313D /* LoggerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoggerClient.m; path = Client/iOS/LoggerClient.m; sourceTree = SOURCE_ROOT; };
-		DAAD0FAC1C4BE55F0042313D /* NSLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSLogger.h; path = Client/iOS/NSLogger.h; sourceTree = SOURCE_ROOT; };
+		DAAD0FA91C4BE55F0042313D /* LoggerClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoggerClient.h; path = Client/iOS/Sources/LoggerClient.h; sourceTree = SOURCE_ROOT; };
+		DAAD0FAA1C4BE55F0042313D /* LoggerClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoggerClient.m; path = Client/iOS/Sources/LoggerClient.m; sourceTree = SOURCE_ROOT; };
+		DAAD0FAC1C4BE55F0042313D /* NSLogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = NSLogger.h; path = Client/iOS/Sources/NSLogger.h; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
